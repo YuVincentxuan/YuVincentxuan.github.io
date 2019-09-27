@@ -3888,9 +3888,9 @@ li.feature-2 {
 .headertop.filter-grid::before {
     background-image:url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/grid.png)
 }
-.headertop.filter-dot::before {
+/* .headertop.filter-dot::before {
     background-image:url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/dot.gif)
-}
+} */
 @media(max-width:860px) {
     .headertop.filter-dot::before {
     background-image:url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/grid.png)
@@ -7285,7 +7285,7 @@ to {
 }
 .highlight-wrap {
     position: relative;
-    background:#21252b;
+    /* background:#21252b; */
     border-radius:5px;
     font:15px/22px "Microsoft YaHei","Arial",Sans-Serif;
     line-height:1.6;
