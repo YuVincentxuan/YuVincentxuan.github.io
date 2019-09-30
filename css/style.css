@@ -859,18 +859,18 @@ blockquote {
 }
 blockquote:before {
     content:"\f10d" !important;
-    font-size:3rem;
+    font-size:2rem;
     position:absolute;
-    top:-25px;
+    top:-10px;
     left:12px;
     color:orange;
     font-family:FontAwesome
 }
 blockquote:after {
     content:'\f10e' !important;
-    font-size:3rem;
+    font-size:2rem;
     position:absolute;
-    bottom:-25px;
+    bottom:-10px;
     right:-5px;
     color:orange;
     font-family:FontAwesome
